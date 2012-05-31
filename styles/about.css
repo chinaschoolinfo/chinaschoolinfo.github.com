@@ -1,0 +1,39 @@
+#content {
+	font-family: "Arial";
+	color: #fb9f32;
+}
+ #slogen  {
+	font-size: 2em;
+	
+}
+
+#content h1 {
+	margin-left: 80px;
+}
+
+#content p {
+	margin-top: .2em;
+	margin-left: 80px;
+	margin-right: 100px;
+	font-weight: medium;
+	color: #b0916d;
+}
+
+table {
+	margin-left: 80px;
+	position: relative;
+}
+
+th {
+}
+
+th,td {
+	width:6em;
+	color: #b0916d;
+}
+th {
+	text-align: left;	
+	}
+#logo {
+	border: none;
+}

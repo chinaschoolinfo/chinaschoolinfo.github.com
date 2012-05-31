@@ -1,0 +1,42 @@
+body {
+	width:900px;
+	margin: 1em 15%;
+	background-image: url(../images/background.jpg);
+	background-repeat:all;
+}
+#header {
+	background-image: url(../images/headerbackground.png);	
+	margin-top: 50px;
+}
+#header p {
+	background-repeat: no-repeat;
+}
+#logo {
+	position: fixed;
+	top:10px;
+	left:1000px;
+}
+#navigation {
+	background-image: url(../images/navbar.png);
+	background-repeat: repeat-x;
+	border-width: .1em;
+	border-bottom-width: 0;
+}
+
+#navigation ul {
+	width: 100%;
+	overflow: hidden;
+	border-left-width: .1em;
+}
+
+#navigation li {
+	display: inline;
+}
+
+#navigation li a {
+	display: block;
+	float: right;
+	padding: 0.3em 3em;
+	border-right: .1em solid;
+}
+

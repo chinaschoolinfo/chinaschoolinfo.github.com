@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#header p {
+	font-family:"H" ;
+	font-size: 60px;
+	margin-left: 510px;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}

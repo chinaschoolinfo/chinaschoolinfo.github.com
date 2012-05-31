@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#header p {
+	font-family: ;
+	font-size: 90px;
+	margin-left: 140px;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+#content {
+	margin-left: 140px;
+}
+
+#footer {
+	margin-left: 140px;
+	font-size: 40px;
+}
+
+
+
+

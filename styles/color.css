@@ -1,0 +1,34 @@
+#content {
+	color: #445;
+	border-color: ##667;
+	background-image: url(../images/contentbgi.png);
+}
+#header p {
+	color: #ff2ea8 ;
+}
+
+a:link {
+	color: #445;
+	background-color: #eb6;
+}
+
+a:visited {
+	color: #345;
+	background-color: #eb5;
+}
+
+a:hover {
+	color: #667;
+	background-color: #fb5;
+}
+
+a:active {
+	color: #778;
+	background-color: #ec8;
+}
+
+#here {
+	color: #667;
+}
+
+#content a {
