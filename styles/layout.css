@@ -2,7 +2,8 @@ body {
 	width:900px;
 	margin: 1em 15%;
 	background-image: url(../images/background.jpg);
-	background-repeat:all;
+	background-repeat: repeat-x;
+	background-attachment: fixed;
 }
 #header {
 	background-image: url(../images/headerbackground.png);	
